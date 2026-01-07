@@ -137,3 +137,9 @@ poetry.toml
 /.windsurf/
 # emscripten
 a.out.*
+
+# LLM specific
+build/
+models/
+*.gguf
+
